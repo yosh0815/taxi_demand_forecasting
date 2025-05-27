@@ -24,7 +24,4 @@ This project forecasts hourly taxi demand using historical ride data. The goal i
 ```bash
 taxi_demand_forecasting/
 ├── taxi_forecast_arima.ipynb     # Main notebook with forecasting workflow
-├── requirements.txt              # Python dependencies
-├── data/                         # (Optional) Sample CSVs or resampled ride data
-├── images/                       # Forecast plots
 └── README.md                     # Project summary
